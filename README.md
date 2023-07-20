@@ -1,2 +1,8 @@
 # Proyecto-Harry-potter
-Marcos S. - Cristian Ordenes- Noelia Barrera- Catalina N
+Marcos Sepulveda
+Noelia Barrera
+Cristian Ordenes 
+Catalina Nuñez
+
+Integracion API Harry Potter
+https://github.com/fedeperin/harry-potter-api
